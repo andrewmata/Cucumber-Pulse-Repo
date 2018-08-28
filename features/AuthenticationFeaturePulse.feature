@@ -6,4 +6,4 @@ Feature:
     Given I have opeend the application
     When I put in valid credentials
     And click login
-    Then I should see my personalized homepage
+    Then I should see my personalized homepage!!!
