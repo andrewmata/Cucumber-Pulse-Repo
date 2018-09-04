@@ -7,4 +7,5 @@ Feature:
     When I put in valid credentials
     And click login
     And enter password
-    Then I should see my personalized homepage!!!
+    Then I should see my personalized homepage
+    
