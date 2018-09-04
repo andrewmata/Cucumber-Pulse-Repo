@@ -7,6 +7,6 @@ Feature:
     When I put in valid credentials
     And click login
     And enter password
-    Then I should see my personalized homepage!!! 2442352
+    Then I should see my personalized homepage!!! 000000000
     
     
